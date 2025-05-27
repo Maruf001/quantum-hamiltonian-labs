@@ -8,7 +8,7 @@ This repository contains GPU-accelerated Jupyter notebooks that simulate time ev
 
 ## 🧪 Included Labs
 
-### 📘 Lab 1: Jaynes–Cummings Hamiltonian & Open Quantum Systems
+### 📘 Jaynes–Cummings Hamiltonian & Open Quantum Systems
 
 This notebook introduces the CUDA-Q Dynamics simulator and walks through:
 
@@ -27,7 +27,7 @@ This notebook introduces the CUDA-Q Dynamics simulator and walks through:
 
 ---
 
-### 📘 Lab 2: Time-Dependent Driven Hamiltonians
+### 📘 Time-Dependent Driven Hamiltonians
 
 This lab explores:
 
