@@ -44,7 +44,7 @@ This lab explores:
 
 ---
 
-## 🔬 Why Use CUDA-Q for Dynamics?
+## 🔬 Why CUDA-Q for Dynamics?
 
 While traditional quantum circuit simulators apply logic gates, **CUDA-Q Dynamics** simulates the full continuous-time evolution of open or closed quantum systems, capturing device-level physics including:
 
